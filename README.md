@@ -7,9 +7,8 @@ number of particles in the simulation and `2Q` is the total flux.
 The repository currently contains data for the following system sizes:
 
 ```
-ssq_N81_2Q80.csv    ssq_N81_2Q160.csv   ssq_N81_2Q240.csv   ssq_N81_2Q320.csv
-ssq_N200_2Q496.csv  ssq_N225_2Q448.csv  ssq_N256_2Q510.csv  ssq_N289_2Q1152.csv
-ssq_N300_2Q746.csv  ssq_N324_2Q323.csv  ssq_N324_2Q969.csv  ssq_N324_2Q1292.csv
+ssq_N81_2Q80.csv    ssq_N81_2Q160.csv   ssq_N81_2Q240.csv ssq_N81_2Q320.csv
+ssq_N225_2Q448.csv  ssq_N256_2Q510.csv  ssq_N289_2Q1152.csv ssq_N324_2Q323.csv  ssq_N324_2Q969.csv  ssq_N324_2Q1292.csv
 ssq_N361_2Q720.csv  ssq_N361_2Q1440.csv ssq_N400_2Q399.csv  ssq_N400_2Q798.csv
 ssq_N400_2Q996.csv  ssq_N400_2Q1197.csv ssq_N400_2Q1596.csv ssq_N484_2Q483.csv
 ssq_N484_2Q1449.csv ssq_N484_2Q1932.csv ssq_N576_2Q575.csv  ssq_N576_2Q1725.csv
