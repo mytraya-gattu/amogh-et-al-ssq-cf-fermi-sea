@@ -4,18 +4,41 @@ Static structure factor datasets for composite-fermion (CF) Fermi-sea
 wavefunctions. Each CSV is named `ssq_N{N}_2Q{2Q}.csv`, where `N` is the
 number of particles in the simulation and `2Q` is the total flux.
 
-The repository currently contains data for the following system sizes:
+The repository currently contains data for the following system sizes,
+reported by particle number \(N\), monopole strength \(2Q\), and filling
+factor \((N-1)/(2Q)\) expressed as a rational number:
 
-```
-ssq_N81_2Q80.csv    ssq_N81_2Q160.csv   ssq_N81_2Q240.csv   ssq_N81_2Q320.csv
-ssq_N200_2Q496.csv  ssq_N225_2Q448.csv  ssq_N256_2Q510.csv  ssq_N289_2Q1152.csv
-ssq_N300_2Q746.csv  ssq_N324_2Q323.csv  ssq_N324_2Q969.csv  ssq_N324_2Q1292.csv
-ssq_N361_2Q720.csv  ssq_N361_2Q1440.csv ssq_N400_2Q399.csv  ssq_N400_2Q798.csv
-ssq_N400_2Q996.csv  ssq_N400_2Q1197.csv ssq_N400_2Q1596.csv ssq_N484_2Q483.csv
-ssq_N484_2Q1449.csv ssq_N484_2Q1932.csv ssq_N576_2Q575.csv  ssq_N576_2Q1725.csv
-ssq_N576_2Q2300.csv ssq_N625_2Q624.csv  ssq_N625_2Q1248.csv ssq_N900_2Q899.csv
-ssq_N900_2Q1798.csv
-```
+| `N` | `2Q` | \((N-1)/(2Q)\) |
+| --- | --- | --- |
+| 81 | 80 | 1/1 |
+| 81 | 160 | 1/2 |
+| 81 | 240 | 1/3 |
+| 81 | 320 | 1/4 |
+| 200 | 496 | 199/496 |
+| 225 | 448 | 1/2 |
+| 256 | 510 | 1/2 |
+| 289 | 1152 | 1/4 |
+| 300 | 746 | 299/746 |
+| 324 | 323 | 1/1 |
+| 324 | 969 | 1/3 |
+| 324 | 1292 | 1/4 |
+| 361 | 720 | 1/2 |
+| 361 | 1440 | 1/4 |
+| 400 | 399 | 1/1 |
+| 400 | 798 | 1/2 |
+| 400 | 996 | 133/332 |
+| 400 | 1197 | 1/3 |
+| 400 | 1596 | 1/4 |
+| 484 | 483 | 1/1 |
+| 484 | 1449 | 1/3 |
+| 484 | 1932 | 1/4 |
+| 576 | 575 | 1/1 |
+| 576 | 1725 | 1/3 |
+| 576 | 2300 | 1/4 |
+| 625 | 624 | 1/1 |
+| 625 | 1248 | 1/2 |
+| 900 | 899 | 1/1 |
+| 900 | 1798 | 1/2 |
 
 ## Column definitions
 
