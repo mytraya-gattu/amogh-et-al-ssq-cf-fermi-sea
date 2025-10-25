@@ -32,5 +32,4 @@ Each CSV is comma-separated with a header row:
 ## Citation requirement
 
 Use the data however you like, but if you publish results that rely on
-these files you must cite the accompanying paper by Amogh et al. (provide
-the appropriate bibliographic information in your work).
+these files you must cite the accompanying paper by Amogh et al.: Exploring the nature of the emergent gauge field in composite-fermion metals: A large-scale microscopic study.
