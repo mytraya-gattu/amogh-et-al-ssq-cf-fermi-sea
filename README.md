@@ -6,9 +6,9 @@ number of particles in the simulation and `2Q` is the total flux.
 
 The repository currently contains data for the following system sizes,
 reported by particle number \(N\), monopole strength \(2Q\), and filling
-factor \((N-1)/(2Q)\) expressed as a rational number:
+factor:
 
-| `N` | `2Q` | \((N-1)/(2Q)\) |
+| `N` | `2Q` | `nu` |
 | --- | --- | --- |
 | 81 | 80 | 1/1 |
 | 81 | 160 | 1/2 |
